@@ -1634,7 +1634,7 @@ nav.main-menu {
 .contact {
     padding-bottom: 90px;
     background-size: cover;
-    background: url(../images/banner2.png);
+    /* background: url(../images/banner2.png); */
     background-size: cover;
     background-repeat: no-repeat;
     background-size: 100%;
